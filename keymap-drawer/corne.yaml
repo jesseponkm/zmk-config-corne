@@ -88,7 +88,7 @@ layers:
   - {t: ▽, type: trans}
   nav:
   - Gui+Ctl+ TAB
-  - {t: ▽, type: trans}
+  - RGB TOG
   - Gui+ [
   - Sft+ TAB
   - TAB
@@ -100,7 +100,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ESC
-  - {t: ▽, type: trans}
+  - RGB HUI
   - {t: ▽, type: trans}
   - SCROLL DOWN
   - SCROLL UP
@@ -112,7 +112,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - RGB SAI
   - HOME
   - PG DN
   - PG UP
